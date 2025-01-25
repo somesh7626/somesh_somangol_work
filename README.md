@@ -1,6 +1,6 @@
 <h1>👋 Hi, I'm Somesh Somangol</h1>
 
-<p>Welcome to my GitHub profile! I’m a data scientist with a background in commerce and experience in using data to drive insights and improve decision-making. My work focuses on data analysis, predictive modeling, and data visualization, using tools like Python, SQL, and Excel.</p>
+<p>Welcome to my GitHub profile! I’m a data scientist with a Computer Science Background and experience in using data to drive insights and improve decision-making. My work focuses on data analysis, predictive modeling, and data visualization, using tools like Python, SQL, and Excel,power BI,Machine Learning,statistics.</p>
 
 <h2>🔍 About Me</h2>
 <ul>
